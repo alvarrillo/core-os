@@ -1,0 +1,4 @@
+core-os
+=======
+
+coreos ipxe
